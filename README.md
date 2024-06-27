@@ -30,7 +30,7 @@
 - Cómo programar Java, Kotlin, Clojure, Groovy, Scala y Jython simultáneamente.
 - Integración de Java, Kotlin, Clojure, Groovy, Scala y Jython en un solo producto de software.
 -
-- 👀👀 Yuri UTKIN , e-mail: yu-2023@inbox.lv
+- 👀👀 Yuri UTKIN , e-mail: yu-2025@inbox.lv
 
 </strong>
  
