@@ -18,7 +18,6 @@
 - <a href="https://yu-2025.github.io/inf/info_ES.html" target="_blank">🌱🌱 ES
 -- JAGO - plataforma para diseñar y desarrollar programas para diversos fines (2023) .</a>
 -
--
 - <a href="https://yu-2025.github.io/inf/info_EN.html" target="_blank">💞️💞️ EN
 -- JAGO-AI - platform for developing programs for neural networks and AI (2024).</a>
 
