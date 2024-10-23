@@ -1,40 +1,41 @@
 <strong>
  
 - <a href="https://yu-2025.github.io/inf/info_EN.html" target="_blank">💞️💞️ EN
--- JAGO Integration of Java, Kotlin, Clojure, Groovy, Scala and Jython in one software product.</a>
+-- JAGO - platform for designing and developing programs for various purposes (2023).</a>
 
 - <a href="https://yu-2025.github.io/inf/info_RU.html" target="_blank">👋👋 RU
--- Интеграция Java, Kotlin, Clojure, Groovy, Scala и Jython в одном программном продукте.</a>
+-- JAGO - платформа для проектирования и разработки программ различного назначения (2023).</a>
 
 - <a href="https://yu-2025.github.io/inf/info_LV.html" target="_blank">🌱🌱 LV
--- Java, Kotlin, Clojure, Groovy, Scala un Jython integrācija vienā programmatūras produktā.</a>
+-- JAGO - platforma dažādu mērķu programmu projektēšanai un izstrādei (2023).</a>
 
 - <a href="https://yu-2025.github.io/inf/info_DE.html" target="_blank">💞️💞️ DE
--- Integration von Java, Kotlin, Clojure, Groovy, Scala und Jython in einem Softwareprodukt.</a>
+-- JAGO – Plattform zum Entwerfen und Entwickeln von Programmen für verschiedene Zwecke (2023).</a>
 
 - <a href="https://yu-2025.github.io/inf/info_FR.html" target="_blank">👋👋 FR
--- Intégration de Java, Kotlin, Clojure, Groovy, Scala et Jython dans un seul produit logiciel.</a>
+-- JAGO - plateforme de conception et de développement de programmes à des fins diverses (2023).</a>
 
 - <a href="https://yu-2025.github.io/inf/info_ES.html" target="_blank">🌱🌱 ES
--- Integración de Java, Kotlin, Clojure, Groovy, Scala y Jython en un solo producto de software.</a>
+-- JAGO - plataforma para diseñar y desarrollar programas para diversos fines (2023) .</a>
+-
 -
 - <a href="https://yu-2025.github.io/inf/info_EN.html" target="_blank">💞️💞️ EN
--- JAGO-AI Integration of Java, Kotlin, Clojure, Groovy, Scala and Jython in one software product.</a>
+-- JAGO-AI - platform for developing programs for neural networks and AI (2024).</a>
 
 - <a href="https://yu-2025.github.io/inf/info_RU.html" target="_blank">👋👋 RU
--- Интеграция Java, Kotlin, Clojure, Groovy, Scala и Jython в одном программном продукте.</a>
+-- JAGO-AI — платформа для разработки программ для нейронных сетей и ИИ (2024).</a>
 
 - <a href="https://yu-2025.github.io/inf/info_LV.html" target="_blank">🌱🌱 LV
--- Java, Kotlin, Clojure, Groovy, Scala un Jython integrācija vienā programmatūras produktā.</a>
+-- JAGO-AI - platforma neironu tīklu un AI programmu izstrādei (2024).</a>
 
 - <a href="https://yu-2025.github.io/inf/info_DE.html" target="_blank">💞️💞️ DE
--- Integration von Java, Kotlin, Clojure, Groovy, Scala und Jython in einem Softwareprodukt.</a>
+-- JAGO-AI – Plattform zur Entwicklung von Programmen für neuronale Netze und KI (2024).</a>
 
 - <a href="https://yu-2025.github.io/inf/info_FR.html" target="_blank">👋👋 FR
--- Intégration de Java, Kotlin, Clojure, Groovy, Scala et Jython dans un seul produit logiciel.</a>
+-- JAGO-AI - plateforme de développement de programmes pour les réseaux de neurones et l'IA (2024).</a>
 
 - <a href="https://yu-2025.github.io/inf/info_ES.html" target="_blank">🌱🌱 ES
--- Integración de Java, Kotlin, Clojure, Groovy, Scala y Jython en un solo producto de software.</a>
+-- JAGO-AI - plataforma para el desarrollo de programas para redes neuronales e IA (2024).</a>
 -
 - 👀👀 Yuri UTKIN , e-mail: yu-2025@inbox.lv
 
