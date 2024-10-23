@@ -1,7 +1,7 @@
 <strong>
  
 - <a href="https://yu-2025.github.io/inf/info_EN.html" target="_blank">💞️💞️ EN
-- JAGO Integration of Java, Kotlin, Clojure, Groovy, Scala and Jython in one software product.</a>
+  JAGO Integration of Java, Kotlin, Clojure, Groovy, Scala and Jython in one software product.</a>
 
 - <a href="https://yu-2025.github.io/inf/info_RU.html" target="_blank">👋👋 RU</a>
 - Интеграция Java, Kotlin, Clojure, Groovy, Scala и Jython в одном программном продукте.
