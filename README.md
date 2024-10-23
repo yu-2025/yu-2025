@@ -31,7 +31,7 @@
 -- Integration von Java, Kotlin, Clojure, Groovy, Scala und Jython in einem Softwareprodukt.</a>
 
 - <a href="https://yu-2025.github.io/inf/info_FR.html" target="_blank">👋👋 FR
-- Intégration de Java, Kotlin, Clojure, Groovy, Scala et Jython dans un seul produit logiciel.</a>
+-- Intégration de Java, Kotlin, Clojure, Groovy, Scala et Jython dans un seul produit logiciel.</a>
 
 - <a href="https://yu-2025.github.io/inf/info_ES.html" target="_blank">🌱🌱 ES
 -- Integración de Java, Kotlin, Clojure, Groovy, Scala y Jython en un solo producto de software.</a>
